@@ -1,0 +1,15 @@
+Useful documentation for RD kit:
+
+# More descriptive chemical descriptor than SMILES:
+https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html
+
+# SMARTS examples of particular motifsMore descriptive chemical:
+https://www.daylight.com/dayhtml_tutorials/languages/smarts/smarts_examples.html
+
+# The manual:
+https://www.rdkit.org/docs/GettingStartedInPython.html
+
+# Inchi for importing and exporting from HMDB
+http://rdkit.org/docs/source/rdkit.Chem.inchi.html
+
+# HMDB resources
